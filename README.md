@@ -1,2 +1,2 @@
 # kjer_workspace
- test to disable home key 
+ Shielding home button  test 
